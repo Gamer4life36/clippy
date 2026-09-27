@@ -23,5 +23,6 @@ Just open **`Clippy.html`** in any modern browser (Chrome, Edge, Firefox). No in
 ## License & non-commercial use
 - The **original code** in this repo is licensed under the **PolyForm Noncommercial License 1.0.0** — free to use, modify, and share for any non-commercial purpose. **No selling.** See [`LICENSE`](LICENSE).
 - The Clippy characters and assets are **Microsoft's**, are **not** included in this repo, and are **not** covered by that license. See [`NOTICE.md`](NOTICE.md).
+- The project's good-faith **fair-use position** (copyright + trademark, with the four-factor analysis and disclaimers) is documented in [`FAIR_USE.md`](FAIR_USE.md).
 
 **This is a free, non-commercial fan project, not affiliated with Microsoft.**
